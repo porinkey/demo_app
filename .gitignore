@@ -15,3 +15,13 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignire other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
+
